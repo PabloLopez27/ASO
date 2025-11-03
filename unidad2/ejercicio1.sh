@@ -16,4 +16,5 @@ then
 fi
 
 nombre=$1
-echo="hola $nombre."
+
+echo "hola $nombre."
